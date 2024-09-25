@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PGPB ACARA 5</string>
+    <array name="countries">
+        <item>Indonesia</item>
+        <item>Singapura</item>
+        <item>Rusia</item>
+        <item>Korea</item>
+        <item>Malaysia</item>
+    </array>
+</resources>
